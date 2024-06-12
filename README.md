@@ -1,0 +1,1 @@
+# Autoplay script for Volientmonkey
